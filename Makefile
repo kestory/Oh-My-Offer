@@ -1,5 +1,5 @@
 git:
 	git add .
 	git status
-	git commit -m "tst"
+	git commit -m "McKinseyyyy"
 	git push
