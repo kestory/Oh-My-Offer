@@ -1,5 +1,5 @@
 git:
 	git add .
 	git status
-	git commit -m "素质测试"
+	git commit -m "pdd20190506"
 	git push
